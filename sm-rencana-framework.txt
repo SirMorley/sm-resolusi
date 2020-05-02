@@ -4,3 +4,5 @@ RENCANA FRAMEWORK
   + belajar mvc
 - pelajari laravel
   + belajar blade
+- pelajari vue
+- pelajari angular
