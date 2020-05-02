@@ -3,3 +3,4 @@ RENCANA FRAMEWORK
 - pelajari code igniter
   + belajar mvc
 - pelajari laravel
+  + belajar blade
