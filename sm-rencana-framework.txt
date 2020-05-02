@@ -1,4 +1,5 @@
 RENCANA FRAMEWORK
 - pelajari composer
 - pelajari code igniter
+  + belajar mvc
 - pelajari laravel
