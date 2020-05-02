@@ -2,4 +2,4 @@ SirMorley Resolusi 2020
 - Konsisten ngoding
 - Mulai freelance di fiverr
 - Belajar PHP Framework
-- Nyoba buat website forum
+- membuat portfolio
